@@ -1,0 +1,7 @@
+C:\Users\NeoXypher\source\repos\CMP1127M Assignment\CMP1127M Assignment\bin\Debug\CMP1127M Assignment.exe.config
+C:\Users\NeoXypher\source\repos\CMP1127M Assignment\CMP1127M Assignment\bin\Debug\CMP1127M Assignment.exe
+C:\Users\NeoXypher\source\repos\CMP1127M Assignment\CMP1127M Assignment\bin\Debug\CMP1127M Assignment.pdb
+C:\Users\NeoXypher\source\repos\CMP1127M Assignment\CMP1127M Assignment\obj\Debug\CMP1127M Assignment.csprojAssemblyReference.cache
+C:\Users\NeoXypher\source\repos\CMP1127M Assignment\CMP1127M Assignment\obj\Debug\CMP1127M Assignment.csproj.CoreCompileInputs.cache
+C:\Users\NeoXypher\source\repos\CMP1127M Assignment\CMP1127M Assignment\obj\Debug\CMP1127M Assignment.exe
+C:\Users\NeoXypher\source\repos\CMP1127M Assignment\CMP1127M Assignment\obj\Debug\CMP1127M Assignment.pdb
